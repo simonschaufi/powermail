@@ -110,16 +110,28 @@
 				<source>Add mails with hidden flag (e.g. 1)</source>
 			</trans-unit>
 			<trans-unit id="settings.plugin.tx_powermail.settings.main.pid">
-				<source>'Form Uids'</source>
+				<source>Storage PID</source>
 			</trans-unit>
 			<trans-unit id="settings.description.plugin.tx_powermail.settings.main.pid">
-				<source>'Comma separated list of forms to show (normally set via Flexform)'</source>
+				<source>Save mails in a defined Page (normally set via Flexform)</source>
+			</trans-unit>
+			<trans-unit id="settings.plugin.tx_powermail.settings.main.form">
+				<source>Form Uids</source>
+			</trans-unit>
+			<trans-unit id="settings.description.plugin.tx_powermail.settings.main.form">
+				<source>Comma separated list of forms to show (normally set via Flexform)</source>
 			</trans-unit>
 			<trans-unit id="settings.plugin.tx_powermail.settings.main.confirmation">
-				<source>'Double Optin Active'</source>
+				<source>Confirmation Page Active</source>
 			</trans-unit>
 			<trans-unit id="settings.description.plugin.tx_powermail.settings.main.confirmation">
-				<source>'Activate Double Optin for Mail sender (normally set via Flexform)'</source>
+				<source>Activate Confirmation Page (normally set via Flexform)</source>
+			</trans-unit>
+			<trans-unit id="settings.plugin.tx_powermail.settings.main.optin">
+				<source>Double Optin Active</source>
+			</trans-unit>
+			<trans-unit id="settings.description.plugin.tx_powermail.settings.main.optin">
+				<source>Activate Double Optin for Mail sender (normally set via Flexform)</source>
 			</trans-unit>
 			<trans-unit id="settings.plugin.tx_powermail.settings.main.moresteps">
 				<source>Allow html in html fields</source>
